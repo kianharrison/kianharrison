@@ -13,13 +13,13 @@
 ---
 
 ### 🛠️ Current Focus
-* 🎓 Pursuing a Bachelor’s in **Computer Engineering** at the University of Buea.
-* 🎬 Executing freelance projects and short-film production.
-* 🏗️ Architecting high-performance systems with the MERN stack.
+🎓 Pursuing a Bachelor’s in **Computer Engineering** at the University of Buea.
+🎬 Executing freelance projects and short-film production.
+🏗️ Architecting high-performance systems with the MERN stack.
 
 ---
 
 ### 📫 Let's Connect and Build
-* **LinkedIn:** [Kian Harrison](https://www.linkedin.com/in/kianharris)
-* **Portfolio:** [KianLooksBetter.netlify.app](https://KianLooksBetter.netlify.app)
-* **Email:** kianharris55@gmail.com
+**LinkedIn:** [Kian Harrison](https://www.linkedin.com/in/kianharris)
+**Portfolio:** [KianLooksBetter.netlify.app](https://KianLooksBetter.netlify.app)
+**Email:** kianharris55@gmail.com
