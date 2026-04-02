@@ -1,5 +1,3 @@
-## Hey, I'm Kian
-
 I specialize in an **"All-in-One" pipeline**: taking concepts from raw code to polished, market-ready visual experiences. My work exists at the intersection of scalable software architecture and high-fidelity motion graphics.
 
 ---
