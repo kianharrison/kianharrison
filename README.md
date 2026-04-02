@@ -13,7 +13,7 @@
 ---
 
 ### 🛠️ Current Focus
-* 🎓 Pursuing a Bachelor’s in **Computer Engineering** @ FET.
+* * 🎓 Pursuing a Bachelor’s in **Computer Engineering** @ FET.*
 * 🏗️ Architecting high-performance systems with the MERN stack.
 * 🎬 Executing freelance projects and short-film production.
 
