@@ -2,7 +2,7 @@
 
 ---
 
-### 🚀 Core Technical Stack
+## Core Technical Stack
 
 | Domain | Technologies |
 | :--- | :--- |
@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠️ Current Focus
+### Current Focus
 * 🎓 Pursuing a Bachelor’s in **Computer Engineering** @ FET.
 * 🏗️ Architecting high-performance systems with the MERN stack.
 * 🎬 Executing freelance projects and short-film production.
