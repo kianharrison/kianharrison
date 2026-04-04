@@ -2,7 +2,7 @@
 
 ---
 
-## Core Technical Stack
+## Technical Stack
 
 | Domain | Technologies |
 | :--- | :--- |
