@@ -1,4 +1,5 @@
-*I specialize in an **"All-in-One" pipeline**: taking concepts from raw code to polished, market-ready visual experiences.*
+# Hey, I'm Kian 👋 
+*I take concepts from raw code logic to polished, market-ready visual experiences.*
 
 ---
 
@@ -12,7 +13,7 @@
 ---
 
 ### Current Focus
-*  Pursuing a Bachelor’s in **Computer Engineering** @ FET.
+*  Pursuing a Bachelor’s in **Software Engineering** @ FET.
 *  Architecting high-performance systems with the MERN stack.
 *  Executing visual and technical freelance projects.
 
