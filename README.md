@@ -1,9 +1,9 @@
-# Hi, I'm Kian
+## Hi, I'm Kian
 *I take concepts from raw code logic to polished, market-ready visual experiences.*
 
 ---
 
-## Technical Stack
+### Technical Stack
 
 | Domain | Technologies |
 | :--- | :--- |
